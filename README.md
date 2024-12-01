@@ -5,6 +5,6 @@ Attacks implemented for MNIST dataset on digits 5 and 9 for both Evasion and Poi
 
 We added code in 06_MNIST_dataset.ipynb for Running Attack for each Classifier (multiple surrogate model at once) where default code supported only 1 surrogate model at a time. We did it against increasing maximum perturbation ε for  Evasion attack and increasing Fraction of Poisoning Points for Poisioning attack.
 
-Run the cells in Colab.
+Run the cells in Google Colab Notebook or Jupyter Notebook.
 
 Paper :https://www.usenix.org/system/files/sec19-demontis.pdf
